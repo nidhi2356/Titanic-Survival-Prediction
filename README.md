@@ -47,10 +47,10 @@ The model with the best performance was selected as the final prediction model.
 
 | Model | Accuracy Score |
 |--------|---------------:|
-| Logistic Regression | XX.XX% |
-| K-Nearest Neighbors (KNN) | XX.XX% |
-| Decision Tree Classifier | XX.XX% |
-| Support Vector Machine (SVM) | XX.XX% |
+| Logistic Regression | 0.80% |
+| K-Nearest Neighbors (KNN) | 0.79% |
+| Decision Tree Classifier | 0.75% |
+| Support Vector Machine (SVM) | 0.74% |
 
 > **Note:** Replace the accuracy values with the results obtained from your notebook.
 
@@ -146,3 +146,4 @@ After comparing multiple classification algorithms, the model with the highest a
 - Feature engineering for improved prediction accuracy.
 - Deploy the model using Streamlit or Flask.
 - Perform cross-validation for better model evaluation.
+
